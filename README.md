@@ -1,1 +1,1 @@
-# SummarAIze
+# SummarAIze: AI-Powered Text Summarization
